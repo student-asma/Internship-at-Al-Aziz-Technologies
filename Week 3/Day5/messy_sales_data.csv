@@ -1,0 +1,15 @@
+order_id,customer_name,city,product,category,quantity,price,order_date
+1,Ali,lahore,Laptop,Electronics,1,80000,10/01/2025
+2,sara,Karachi,Mouse,Accessories,2,1500,12/01/2025
+3,Usman,LAHORE,Keyboard,accessories,1,3000,15-01-2025
+4,Ayesha,Islamabad,Monitor,Electronics,,20000,2025-01-18
+5,Bilal,Lahore ,Laptop,Electronics,1,80000,20/01/2025
+6,Sara,Karachi,Keyboard,Accessories,1,3000,05/02/2025
+6,Sara,Karachi,Keyboard,Accessories,1,3000,05/02/2025
+7,Usman,Lahore,Mouse,Accessories,3,1500,10/02/2025
+8,Ali,lahore,Monitor,Electronics,2,20000,15/02/2025
+9,Hina,Multan,Laptop,electronics,1,80000,18/02/2025
+10,Ayesha,Islamabad,Mouse,Accessories,1,-500,20/02/2025
+11,Zara,karachi,Laptop,Electronics,999,80000,01/03/2025
+12,Faisal,Multan,Mouse,Accessories,2,,02/03/2025
+13,Kamran,,Keyboard,Accessories,1,3000,05/03/2025
