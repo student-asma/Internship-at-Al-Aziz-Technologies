@@ -1,0 +1,17 @@
+OrderID,CustomerFullName,City,Product,Category,Quantity,Price,OrderDate,Status
+1001,Ali Khan,lahore,Laptop,Electronics,1,80000,2025-01-10,Delivered
+1002,Sara Ahmed,Karachi,Mouse,Accessories,2,1500,2025-01-12,delivered
+1003,Usman Ali,LAHORE,Keyboard,accessories,1,3000,2025-01-15,Pending
+1004,Ayesha Malik,Islamabad,Monitor,Electronics,,20000,2025-01-18,Delivered
+1005,Bilal Hussain,Lahore ,Laptop,Electronics,1,80000,2025-01-20,Cancelled
+1006,Sara Ahmed,Karachi,Keyboard,Accessories,1,3000,2025-02-05,Delivered
+1006,Sara Ahmed,Karachi,Keyboard,Accessories,1,3000,2025-02-05,Delivered
+1007,Usman Ali,Lahore,Mouse,Accessories,3,1500,2025-02-10,Delivered
+1008,Ali Khan,lahore,Monitor,Electronics,2,20000,2025-02-15,Pending
+1009,Hina Shah,Multan,Laptop,electronics,1,80000,2025-02-18,Delivered
+1010,Ayesha Malik,Islamabad,Mouse,Accessories,1,,2025-02-20,Delivered
+1011,Zara Iqbal,karachi,Printer,Electronics,1,22000,2025-03-01,Delivered
+1012,Faisal Raza,Multan,Mouse,Accessories,2,1500,2025-03-02,Cancelled
+1013,Kamran Butt,,Keyboard,Accessories,1,3000,2025-03-05,Delivered
+1014,Nida Aslam,Faisalabad,Headphones,Accessories,2,4000,2025-03-08,Delivered
+1015,Omar Sheikh,Lahore,Laptop,Electronics,1,80000,2025-03-12,Pending

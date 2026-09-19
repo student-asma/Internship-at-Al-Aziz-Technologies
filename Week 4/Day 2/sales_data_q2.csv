@@ -1,0 +1,7 @@
+OrderID,CustomerFullName,City,Product,Category,Quantity,Price,OrderDate,Status
+2001,Ali Khan,Lahore,Printer,Electronics,1,22000,2025-04-05,Delivered
+2002,Mariam Javed,Karachi,Laptop,Electronics,1,80000,2025-04-12,Delivered
+2003,Usman Ali,Multan,Headphones,Accessories,2,4000,2025-04-20,Pending
+2004,Zara Iqbal,Lahore,Monitor,Electronics,1,20000,2025-05-03,Delivered
+2005,Hina Shah,Islamabad,Mouse,Accessories,3,1500,2025-05-15,Delivered
+2006,Faisal Raza,Faisalabad,Keyboard,Accessories,1,3000,2025-06-01,Delivered
